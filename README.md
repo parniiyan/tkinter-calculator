@@ -45,4 +45,5 @@ Make sure you have Python installed on your system. `tkinter` is included in the
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/parniiyan/tkinter-calculator/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/Parnian Arif
+/tkinter-calculator/issues) if you want to contribute.
