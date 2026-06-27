@@ -46,9 +46,3 @@ Make sure you have Python installed on your system. `tkinter` is included in the
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/parniiyan/tkinter-calculator/issues) if you want to contribute.
-
-
-### 💡 چند نکته برای تکمیل این فایل:
-3. **نام فایل اصلی:** در بخش دستورات اجرا فرض کرده‌ام نام فایل شما `calculator.py` است. اگر نام دیگری دارد، آن را در متن اصلاح کنید.
-
-```
