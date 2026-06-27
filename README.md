@@ -23,8 +23,3 @@ A lightweight and user-friendly Graphical User Interface (GUI) calculator built 
 
 * **Language:** Python 3
 * **Library:** Tkinter (for the GUI)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/parniiyan
-/tkinter-calculator/issues) if you want to contribute.
