@@ -19,25 +19,6 @@ A lightweight and user-friendly Graphical User Interface (GUI) calculator built 
 
 <img width="326" height="475" alt="Screenshot 2026-06-27 123045" src="https://github.com/user-attachments/assets/f9f91584-934d-4358-a8b9-5454232e4362" />
 
-
-## 🚀 How to Run
-
-### Prerequisites
-Make sure you have Python installed on your system. `tkinter` is included in the standard Python library, so no extra installation is required.
-
-### Execution
-1. Clone this repository:
-   git clone [https://github.com/parniiyan/tkinter-calculator.git](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git)
-
-2. Navigate to the project directory:
-   cd YOUR-REPOSITORY
-
-3. Run the Python script:
-   python pro_gui_calculator.py
-
-
-*(Note: Depending on your system, you might need to use `python3` instead of `python`)*
-
 ## 🛠️ Technologies Used
 
 * **Language:** Python 3
@@ -45,5 +26,5 @@ Make sure you have Python installed on your system. `tkinter` is included in the
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/Parnian Arif
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/parniiyan
 /tkinter-calculator/issues) if you want to contribute.
